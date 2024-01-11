@@ -1,4 +1,4 @@
-![python](https://imgs.search.brave.com/CrUkKp-xZqx1flK5jZSoEf9XSyQBlIC2srieVfkpTps/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9QeXRob25f/KHByb2dyYW1taW5n/X2xhbmd1YWdlKS9Q/eXRob25fKHByb2dy/YW1taW5nX2xhbmd1/YWdlKS1Mb2dvLndp/bmUuc3Zn.svg) 
+![python](https://imgs.search.brave.com/7fzGebJ1T5VXP9fpgXJWWReS4TXZtmTIMTvUIKCv_5Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2Y4L1B5dGhvbl9s/b2dvX2FuZF93b3Jk/bWFyay5zdmc.svg)
 # Trilhando Python: Minha Jornada de Aprendizado
 
 Bem-vindo ao meu repositório "Trilhando Python"! Aqui, compartilho minha jornada de aprendizado em Python, documentando aulas, desafios e projetos do curso que estou cursando.
