@@ -69,4 +69,6 @@ print(f'{1000.4873648123746:0=+10,.1f}')
 print(f'O hexadecimal de 1500 é {1500:04X}')
 print(f'{variavel!r}')
 
+print(len(variavel))
+print(variavel[0::2])
 print("\n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n")
