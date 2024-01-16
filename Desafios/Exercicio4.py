@@ -52,21 +52,18 @@ menos escreva "Seu nome é curto"; se tiver entre 5 e 6 letras, escreva
 "Seu nome é normal"; maior que 6 escreva "Seu nome é muito grande".
 """
 print('\033[1m' + 'Atividade 3\n')
-while True:
-    try:
-        nome = str(input("Digite seu nome: ")).capitalize()
 
-        if len(nome) <= 4:
-            print(f'{nome} seu nome é bem curto')
-            break
-        elif len(nome) <= 6:
-            print(f'{nome} seu nome tem um tamanho normal!')
-            break
-        else:
-            print(f'{nome} seu nome é bem grande em')
-            print('La ele' + '\U0001F923')
-            break
-    except:
-        print("O nome inserido não possui apenas letras,por favor reescreva")
+try:
+    nome = input("Digite seu nome: ").capitalize()
+
+    if len(nome) <= 4:
+        print(f'{nome} seu nome é bem curto')
+    elif len(nome) <= 6:
+        print(f'{nome} seu nome tem um tamanho normal!')
+    else:
+        print(f'{nome} seu nome é bem grande em')
+        print('La ele' + '\U0001F923')
+except:
+    print("O nome inserido não possui apenas letras,por favor reescreva")
 
 print("\n-=-=-=-=--=-=-=-=-=-=-=-=-=-\n")
