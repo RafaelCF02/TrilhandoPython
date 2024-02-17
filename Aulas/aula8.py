@@ -17,3 +17,15 @@ while linha <= qtd_linhas:
 
 
 print('Acabou')
+
+print("-=-=-=-=-=-=-=-=-=-=-=-=-\n")
+
+string = 'Rafael'
+
+i = 0
+
+while i < len(string):
+    letra = string[i]
+    print(letra)
+    i += 1
+
